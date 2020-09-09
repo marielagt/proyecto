@@ -1,9 +1,9 @@
-The technology has enormous potential to transform how we manage and use data. For instance, the blockchain and data science deals with data. Data science analyses data, while blockchain records and validates data, keeping integrity. 
+The technology has tremendous potential to transform how we manage and use data. For example, the blockchain and data science deals with data. Data science analyses data, while blockchain records and validates data, keeping integrity. 
 In different fields like Fintech and healthcare, the blockchain is now very familiar, however the technology has not been explored extensively in aspects of data science. 
 To some, the relationship between the concepts are unclear.
 The inclusion of dirty data for example, duplicated or incorrect data is the biggest challenge to data science. Using blockchain and its algorithm and cryptography, we can validate our data, making it almost impossible to be manipulated.
 The blockchain provides structured data gathered from different sources, for example, individuals, databases, smart-devices, systems, Internet of things, among others. Helping data scientists achieve goals related the quality of data unlike never before. 
-This team has the idea to create a blockchain platform to help Latin-Americans data scientists step up their work, by trading analysis outcomes stored on the platform. Contributing to the development of Latin American research.
+This team has the idea to create a blockchain platform to help Latin-Americans data scientists step up their work, by trading analysis outcomes stored on the platform. Contributing to the development of Latin American research and worldwide.
 
  
 
